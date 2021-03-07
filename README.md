@@ -3,7 +3,7 @@
 This project is developed using Tuya SDK, which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices.For more information, please check Tuya Developer Website.
 <br>
 
-## usage scenarios
+## Usage scenarios
 <br>
 * FEEDING WITH SMARTPHONE: <br>
 To make the feeding much easier, we abandon the clumsy control panel on feeder and complex wifi connection. We connect the feeder and the App on your smartphone via Bluetooth and WIFI, which is much easier and faster. you can schedule meals in the  app 
